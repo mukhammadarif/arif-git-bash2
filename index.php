@@ -8,5 +8,10 @@
 <body>
     <h1>Hello World</h1>
     <p>Ipsum Lorem</p>
+    <h3>List:</h3>
+    <ul>
+        <li>Makan</li>
+        <li>Masak</li>
+    </ul>
 </body>
 </html>
